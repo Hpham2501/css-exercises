@@ -1,0 +1,21 @@
+/* Class starts with .*/
+.odd {
+    background-color: rgb(255, 153, 255);
+    font-family: 'Verdana', Courier, monospace;
+}
+
+/* ID starts with # */
+#second {
+    color: blue;
+    font-size: 36px;
+}
+
+.cool {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: hsl(120, 100%, 80%);
+    font-size: 24px;
+    font-weight: bold;
+}
