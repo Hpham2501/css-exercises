@@ -1,0 +1,32 @@
+/* Class starts with .*/
+.c1 {
+    background-color: rgb(255, 204, 255);
+    /* Font family list a list of fonts to be used, the ones after first are backups */
+    font-family: Verdana, Dejavu Sans, sans-serif;
+}
+
+/* ID starts with #*/
+#I2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.cool3 {
+    background-color: rgb(255, 204, 255);
+    /* Font family list a list of fonts to be used, the ones after first are backups */
+    font-family: Verdana, Dejavu Sans, sans-serif;
+    font-size: 24px;
+}
+
+#I4 {
+    background-color: rgb(0, 255, 0);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.c5 {
+    background-color: rgb(255, 204, 255);
+    /* Font family list a list of fonts to be used, the ones after first are backups */
+    font-family: Verdana, Dejavu Sans, sans-serif;
+}
+
